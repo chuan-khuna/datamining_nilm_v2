@@ -15,22 +15,7 @@
 - February **April - June**
 - Above 0°C
 
-### Summer
+## Weather Data
 
-- **June - August**
-
-### Fall (Autumn)
-
-- **August - November**
-
-### ref
-
-- [tripsavvy](https://www.tripsavvy.com/four-seasons-in-canada-1482200)
-
-## Canada Data
-
-> data from MPI-ESM-MR model tas (+15 bias corrected)
-
-![](./imgs/seasonal.jpg)
-
-![](./imgs/map_MPI_model.png)
+![](./imgs/hourly_temperature.png)
+![](./imgs/seasonal_temperature.png)
